@@ -1,2 +1,3 @@
-# FindCirclesByOpenCvSharp
-简单地使用C#和OpenCvSharp实现功能强大的找圆算法
+
+
+这是一个使用 C# 和 OPenCV 写的找圆demo
