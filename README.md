@@ -1,0 +1,2 @@
+# FindCirclesByOpenCvSharp
+简单地使用C#和OpenCvSharp实现功能强大的找圆算法
