@@ -1,6 +1,4 @@
-﻿using SNS.SnsSharp;
-
-namespace FindCircles
+﻿namespace FindCircles
 {
     partial class Form1
     {
